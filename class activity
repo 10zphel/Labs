@@ -1,0 +1,3 @@
+name = input("enter yuor name")
+num1 = float(input("enter your first number"))
+num2 = float(input("ender your seconf number"))
